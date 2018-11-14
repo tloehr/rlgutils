@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Export-Package: de.flashheart;version=1.0
+Package: de.flashheart
